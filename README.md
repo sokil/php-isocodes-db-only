@@ -12,7 +12,7 @@ To get this database with localized values, see [sokil/php-isocodes-db-i18n](htt
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-only.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-only)
 [![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes-db-only/d/daily)](https://packagist.org/packages/sokil/php-isocodes-db-only/stats)
 
-:1234: Database version: v4.18.0-214-g07d42ef8 from 2025-10-02 04:22
+:1234: Database version: v4.19.0-64-gbd152c00 from 2025-12-02 04:30
 
 Database updated at 2-nd day of every month.
 
